@@ -1,0 +1,23 @@
+/* General Styles */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: hwb(34 67% 13%);
+}
+
+
+/* General Rules */
+
+img embed, object, video, picture {
+  max-width: 100%;
+}
+
+p, h1, h2, h3, h4, h5 {
+  line-height: 20px;
+}
+
+#logo {
+  max-width: 100%;
+}
+
