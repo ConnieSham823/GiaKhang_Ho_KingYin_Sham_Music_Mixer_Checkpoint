@@ -6,6 +6,20 @@ html {
     display: none;
 }
 
+body {
+  font-family: "Averia Serif Libre", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.box {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
 /* Mobile */
 .grid-con {
     display: grid;
