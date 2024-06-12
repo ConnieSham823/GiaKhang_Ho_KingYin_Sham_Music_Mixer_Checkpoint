@@ -1,4 +1,5 @@
 # GiaKhang_Ho_KingYin_Sham_Music_Mixer_Checkpoint
+Welcome to the Canadian Panda Got Talent!
 This is the repo for the Music Mixer - checkpoint.
 
 ## Installation
